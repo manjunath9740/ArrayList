@@ -1,5 +1,6 @@
 
-public class Demo {
+public class ModifyArrayList {
+
 	int arr[] = null;
 	int capacity = 5;
 	int size = 0;
@@ -131,3 +132,6 @@ public class Demo {
 	}
 
 }
+
+
+
